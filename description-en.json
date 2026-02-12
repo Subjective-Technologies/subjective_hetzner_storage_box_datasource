@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for Hetzner Storage Box intended to ingest remote file content into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Hetzner Storage Box",
-      "text": "A Subjective data source for Hetzner Storage Box. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for Hetzner Storage Box intended to ingest remote file content into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_hetzner_storage_box_datasource/icon.svg",
         "alt": "Hetzner Storage Box icon"
